@@ -1,4 +1,3 @@
-
 # Install AWS CLI v2
 pwd=$(pwd)
 cd /tmp
